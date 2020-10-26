@@ -1,4 +1,4 @@
-/* https://css-tricks.com/building-css-grid-overlay/ */
+
 :root {
     --offset: 10px;
     --max_width: #{$max-width};
