@@ -1,0 +1,28 @@
+{
+  "name": "vef1-2020-v6",
+  "version": "0.0.1",
+  "description": "prufa",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryndisrosa97/Verkefni6.git"
+  },
+
+  "scripts": {
+    "browser-sync": "browser-sync start --server"
+  },
+
+  "bugs": {
+    "url": "https://github.com/bryndisrosa97/Verkefni6/issues"
+  },
+  "homepage": "https://github.com/bryndisrosa97/Verkefni6#readme",
+ 
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "dependencies": {
+  },
+
+  "author": "bryndis",
+   "license": "ISC"
+}
